@@ -9,11 +9,13 @@
 Root :7 'dir.
 
 1.aşama (5 7'den küçük olduğu için soluna yazılır)
+
     7
    / \
   5
   
 2.aşama (1 7'den küçük olduğu için soluna yazılır)
+
      7
     / \
    5
@@ -21,13 +23,15 @@ Root :7 'dir.
  1
  
 3.aşama (8 7'den büyük olduğu için sağına yazılır)
-    7
+
+     7
     / \
    5   8
   /
  1
  
  4.aşama (3 7'den ve 5'den küçük olduğu için soluna 1'den büyük olduğu için sağına yazılır)
+ 
       7
      / \
     5   8
@@ -37,6 +41,7 @@ Root :7 'dir.
     3
     
  5.aşama (6 7'den küçük olduğu için soluna ama 5'den büyük olduğu için sağa yazılır)
+ 
       7
      / \
     5   8
@@ -46,6 +51,7 @@ Root :7 'dir.
     3
     
  6.aşama (0 7,5 ve 1 'den küçük olduğu için soluna yazılır)
+ 
        7
       / \
      5   8
@@ -55,6 +61,7 @@ Root :7 'dir.
  0    3
  
 7.aşama (9  7ve 8'den büyük olduğu için sağa yazılır)
+
        7
       / \
      5   8
@@ -63,7 +70,8 @@ Root :7 'dir.
   /  \
  0    3
  
- 8.aşama (4 7,5 den küçük ama 3 den büyük olduğu için soluna yazılır) 
+ 8.aşama (4 7,5 den küçük ama 3 den büyük olduğu için soluna yazılır)
+ 
         7
       / \
      5   8
@@ -75,6 +83,7 @@ Root :7 'dir.
         4
         
  9.aşama (2 7 ve 5 den küçük 1 den büyük ama 3'den küçük olduğu için soluna yazılır)
+ 
          7
       / \
      5   8
