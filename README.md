@@ -93,3 +93,7 @@ Root :7 'dir.
  0    3
      / \
     2   4
+    
+    ![binary-tree](https://user-images.githubusercontent.com/110016998/193278324-5154b5f4-7179-4f69-a7f8-109c1615543b.png)
+
+    
